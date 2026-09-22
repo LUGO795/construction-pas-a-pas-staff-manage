@@ -1,3 +1,4 @@
+<img width="600" height="356" alt="01_tableau-de-bord_clair (1)" src="https://github.com/user-attachments/assets/3bbc0144-b5f7-49e4-a070-4382d485efe0" />
 # Ondea Staff Manager
 
 **Plateforme locale de gestion du personnel, missions et communication interne — 100 % autonome, sans serveur.**
