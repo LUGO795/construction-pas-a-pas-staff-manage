@@ -1,11 +1,11 @@
-<img width="600" height="356" alt="01_tableau-de-bord_clair (1)" src="https://github.com/user-attachments/assets/3bbc0144-b5f7-49e4-a070-4382d485efe0" />
+
 # Ondea Staff Manager
 
 **Plateforme locale de gestion du personnel, missions et communication interne — 100 % autonome, sans serveur.**
 
 Application web mono-fichier (HTML + CSS + JavaScript vanilla) conçue pour équiper une petite ou moyenne structure d'un outil RH complet, sans hébergement ni base de données : tout fonctionne hors-ligne, directement dans le navigateur. Identité visuelle « **Obsidienne & Or** », commune à l'ensemble des applications Ondea.
 
-![Aperçu de l'application](images/_apercu.png)
+<img width="600" height="356" alt="01_tableau-de-bord_clair (1)" src="https://github.com/user-attachments/assets/3bbc0144-b5f7-49e4-a070-4382d485efe0" />
 
 ---
 
